@@ -1,0 +1,82 @@
+[
+  {
+    "name": "H",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "I"
+  },
+  {
+    "name": "I",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "D"
+  },
+  {
+    "name": "D",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "E"
+  },
+  {
+    "name": "E",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "F"
+  },
+  {
+    "name": "F",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "C"
+  },
+  {
+    "name": "C",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "G"
+  },
+  {
+    "name": "G",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "B"
+  },
+  {
+    "name": "B",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "J"
+  },
+  {
+    "name": "J",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "A"
+  },
+  {
+    "name": "A",
+    "alive": true,
+    "kills": 0,
+    "victims": [],
+    "assassin": "",
+    "target": "H"
+  }
+]
